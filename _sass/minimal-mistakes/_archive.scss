@@ -22,6 +22,7 @@
   position: relative;
 
   a {
+    font-size: 0.95em;
     position: relative;
     z-index: 10;
   }
@@ -44,7 +45,6 @@
 }
 
 .archive__item-title {
-  font-size: 13px;
   margin-bottom: 0.25em;
   font-family: $sans-serif-narrow;
   line-height: initial;
