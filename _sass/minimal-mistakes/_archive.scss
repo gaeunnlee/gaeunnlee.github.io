@@ -2,7 +2,9 @@
    ARCHIVE
    ========================================================================== */
 a:-webkit-any-link {
-  text-decoration: none!important;}
+    text-decoration: none!important;
+    text-decoration-line: none!important;
+}
 
 .archive {
   margin-top: 1em;
