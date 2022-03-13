@@ -1,6 +1,8 @@
 ---
 title:  "테스트"
 
+layout: single
+
 categories:
   - Computer Network
 tags:
