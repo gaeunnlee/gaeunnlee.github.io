@@ -1,6 +1,8 @@
 /* ==========================================================================
    ARCHIVE
    ========================================================================== */
+a:-webkit-any-link {
+  text-decoration: none!important;}
 
 .archive {
   margin-top: 1em;
@@ -26,9 +28,7 @@
     position: relative;
     z-index: 10;
   }
- a:link {text-decoration: none;}
- a:visited { text-decoration: none;}
- a:hover { text-decoration: underline;}
+
 
   a[rel="permalink"] {
     position: static;
