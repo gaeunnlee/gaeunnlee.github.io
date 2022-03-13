@@ -4,7 +4,7 @@ main:
      url: "/about/"
    - title: "Category"
      url: "/categories/"
-   - title: "tag"
+   - title: "ag"
      url: "/tags/"
 
   #- title: "Quick-Start Guide"
