@@ -106,12 +106,12 @@ author:
   name             : "Gaeun Lee"
   avatar           : "/images/profile.png"
   bio              : "**Just Do It**"
-  location         : "Goyang City"
+  location         : "Republic of Kor"
   email            :
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:your.name@email.com"
+      url: "gaeunozz6@dankook.ac.kr"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
@@ -126,7 +126,7 @@ author:
       # url: "https://github.com/"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
+      url"https://instagram.com/ol7rz.o"
 
 # Site Footer
 footer:
